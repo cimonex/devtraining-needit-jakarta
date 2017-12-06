@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="RRDSM QUESTIONS" section_id="2cc64d30dbaa03000ffaddd0cf9619ce" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>cf92f7fbdb2203000ffaddd0cf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>1) Will this initiative require changes to an existing Legal or Oracle Entity or require the creation of a new Legal or Oracle Entity?</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>c392f7fbdb2203000ffaddd0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>1a) If this is a change to an existing Legal or Oracle Entity, what change is being proposed? How it affects the Legal, BHC, MLE hierarchies? (Example: Merger of 2 entities, Repurposing )</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>c792f7fbdb2203000ffaddd0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>1b) If this is a new Legal or Oracle Entity, will it cause an impact based on filing eligibility/requirements per regulators?  *If yes, level 2 review required</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>cb92f7fbdb2203000ffaddd0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>1c) Which country is having the change item?</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>cf92f7fbdb2203000ffaddd0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>1) Comments:</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>c392f7fbdb2203000ffaddd0cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>2) Will this initiative impact a sub-ledger application causing a change to Ledger/ financial or impact to systems downstream?</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>c792f7fbdb2203000ffaddd0cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>2a) Will this impact existing accounting rules or require new ones to be created?</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>cb92f7fbdb2203000ffaddd0cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>2b) Will this impact CCID components such as Entity, Natural Account, Sub Account, or Inter-Entity?</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>cf92f7fbdb2203000ffaddd0cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>3) Will this initiative create a New Product or Instrument Launch? 
+
+(Merchant loans, New IA, Logo OR Treasury Instrument)</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>c392f7fbdb2203000ffaddd0cf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>3a) Is a new sub ledger system being created?</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>c792f7fbdb2203000ffaddd0cf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>3b) Are we retro fitting it another existing system?</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>cb92f7fbdb2203000ffaddd0cf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>3c) Are there any limitations if the existing system is being used?</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>cf92f7fbdb2203000ffaddd0cf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>4) Will this initiative impact mergers, acquisitions, divestures, etc.? 
+
+*If yes, level 2 review required</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>c392f7fbdb2203000ffaddd0cf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>4a) What is the impact to systems as well as what report filings and current list of filers?</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>c792f7fbdb2203000ffaddd0cf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>5) Will this initiative impact New Payment Plan Products? 
+
+(Examples: EPT, DPP, Payment hierarchy changes)</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>cb92f7fbdb2203000ffaddd0cf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>6) Will this initiative change the characteristic of an existing product such as change in payment terms?</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>cf92f7fbdb2203000ffaddd0cf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>7) Will this initiative impact Proprietary or Global Network Services (GNS)?:</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>c392f7fbdb2203000ffaddd0cf9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>8) Will this initiative affect the balance sheet, income statement, or liquidity?:
+
+*If Liquidity, level 2 review required</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>c792f7fbdb2203000ffaddd0cf9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>9) Are there changes/ impacts to GMDL or GDR/ARDW source system feeds sent downstream to ODS for RRD?:
+
+(GMDL – Global Merchant Data Layer; GDR – Global Data Repository; ARDW – Accounts Receivable Data Warehouse)</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>cb92f7fbdb2203000ffaddd0cf9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <text>10) Are External Regulators driving changes or impacts?:</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cf92f7fbdb2203000ffaddd0cf9619ca</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>8f92f7fbdb2203000ffaddd0cf9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_10</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>0392f7fbdb2203000ffaddd0cf9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c392f7fbdb2203000ffaddd0cf9619cb</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>8392f7fbdb2203000ffaddd0cf9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_15</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>0792f7fbdb2203000ffaddd0cf9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c792f7fbdb2203000ffaddd0cf9619cb</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>8792f7fbdb2203000ffaddd0cf9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_17</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>0b92f7fbdb2203000ffaddd0cf9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cb92f7fbdb2203000ffaddd0cf9619cb</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>8b92f7fbdb2203000ffaddd0cf9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_18</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>0f92f7fbdb2203000ffaddd0cf9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cf92f7fbdb2203000ffaddd0cf9619cb</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>8f92f7fbdb2203000ffaddd0cf9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>0392f7fbdb2203000ffaddd0cf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c392f7fbdb2203000ffaddd0cf9619cc</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>8392f7fbdb2203000ffaddd0cf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c792f7fbdb2203000ffaddd0cf9619cc</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>0792f7fbdb2203000ffaddd0cf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cb92f7fbdb2203000ffaddd0cf9619cc</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>8792f7fbdb2203000ffaddd0cf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cf92f7fbdb2203000ffaddd0cf9619cc</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>0b92f7fbdb2203000ffaddd0cf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c392f7fbdb2203000ffaddd0cf9619cd</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>8b92f7fbdb2203000ffaddd0cf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c792f7fbdb2203000ffaddd0cf9619cd</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>0f92f7fbdb2203000ffaddd0cf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cb92f7fbdb2203000ffaddd0cf9619cd</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>8f92f7fbdb2203000ffaddd0cf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cf92f7fbdb2203000ffaddd0cf9619cd</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>0392f7fbdb2203000ffaddd0cf9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c392f7fbdb2203000ffaddd0cf9619ce</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>8392f7fbdb2203000ffaddd0cf9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c792f7fbdb2203000ffaddd0cf9619ce</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>0792f7fbdb2203000ffaddd0cf9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cb92f7fbdb2203000ffaddd0cf9619ce</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>8792f7fbdb2203000ffaddd0cf9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cf92f7fbdb2203000ffaddd0cf9619ce</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>0b92f7fbdb2203000ffaddd0cf9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c392f7fbdb2203000ffaddd0cf9619cf</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>8b92f7fbdb2203000ffaddd0cf9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c792f7fbdb2203000ffaddd0cf9619cf</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>0f92f7fbdb2203000ffaddd0cf9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cb92f7fbdb2203000ffaddd0cf9619cf</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 18:08:01</sys_created_on>
+            <sys_id>8f92f7fbdb2203000ffaddd0cf9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="RRDSM QUESTIONS" display_value="RRDSM QUESTIONS" name="x_58872_needit_needit" sys_domain="global" view="Default view">2cc64d30dbaa03000ffaddd0cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 18:08:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>RRDSM QUESTIONS</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-17 21:55:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2cc64d30dbaa03000ffaddd0cf9619ce</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>RRDSM QUESTIONS</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_2cc64d30dbaa03000ffaddd0cf9619ce</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-20 16:46:00</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
